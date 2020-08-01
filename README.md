@@ -27,8 +27,8 @@ Go to https://scratch.mit.edu/ and select Create.
 ## Code Download link
 Here you can see how you code the micro:bit in Scratch. You are making a race game. You can make the game starting on a project with only the sprites and background in the game. Or you can go to the finished game, and change all the sprites and backgrounds. 
 
-* Link to the start code: https://scratch.mit.edu/projects/415064069/
-* Link to the complete code: https://scratch.mit.edu/projects/415030628/
+* Link to the [start code](https://scratch.mit.edu/projects/415064069/)
+* Link to the [complete code](https://scratch.mit.edu/projects/415030628/)
 
 # Get inspired with Scratch and micro:bit projects
 There is a micro:bit and Scratch Studio with lots of nice projects made for the micro:bit. You can take a look and play or remix them with you own ideas. 
